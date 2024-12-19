@@ -180,6 +180,7 @@ header p {
 
 .items p {
     font-size: 1.25rem;
+    margin-top:4px;
 }
 
 .right img {
@@ -189,7 +190,7 @@ header p {
 
 #Icons {
     height: 2.5rem;
-    margin-top: 1.25rem;
+    margin-top: 10px;
 }
 
 /* Media Queries */
